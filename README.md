@@ -1,6 +1,6 @@
-# Sailarr Installer
+# Media World Installer
 
-Fully automated installation script for creating your own media server powered by Real-Debrid and the *Arr stack. One command setup with comprehensive configuration options.
+Fork of Fully automated installation script for creating your own media server powered by Real-Debrid and the *Arr stack. One command setup with comprehensive configuration options.
 
 ## What is This?
 
